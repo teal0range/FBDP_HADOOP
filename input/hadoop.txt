@@ -1,0 +1,17 @@
+Introduction to Uses of Hadoop
+Hadoop is a java based framework, and it is an open-source framework. Hadoop is used for storing and processing big data. In Hadoop, data is stored on inexpensive commodity servers that run as clusters. It is a distributed file system that allows concurrent processing and fault tolerance. Hadoop MapReduce programming model is used for faster storage and retrieval of data from its nodes.
+
+What is Hadoop?
+Hadoop is developed by Doug Cutting and Michale J. It is managed by apache software foundation and licensed under the Apache license 2.0 Hadoop. It is beneficial for the big business because it is based on cheap servers, requiring less cost to store the data and process the data. Hadoop helps make a better business decision by providing a history of data and various company records. So by using this technology company can improve its business. Hadoop does lots of processing over collected data from the company to deduce the result which can help to make a future decision.
+
+Uses of Hadoop
+Please find the below sections, where Hadoop has been used widely and effectively. Below is the list of the top 10 Uses of Hadoop.
+
+1. Security and Law Enforcement
+The USA’s national security agency uses Hadoop to prevent terrorist attacks, and It is used to detect and prevent cyber-attacks. Police forces use big data tools to catch criminals, and even predict criminal activity and credit card companies use big data, use it to detect fraudulent transactions. Hadoop has a big amount of data that is used to extract meaningful information from this data. A financial company uses these techniques to search the customers.
+
+2. Customer’s Requirements Understanding
+Hadoop’s most important uses are in Customer’s requirement understanding. Many companies like financial, telecom use this technology to find out the customer’s requirement by analysis big amount of data and extracting this important information from these data, social media also uses this technology, it keeps on posting an advertisement on various social media sites to the target customer whenever the user open their social media on browser, Credit card company uses this technology to find out the exact customer for their product, they contact the customer through various way to sell their product ,Many online booking sites keeps the track of users for their previous journey according to this information or based on customer interest they suggest to their customer flights on these basis , Many e-commerce company keeps track of the product which was bought by together, on basis of this they suggest to customer to buy other product when customer trying to buy one of relevant product from that group, for example, mobile back cover, screen guard suggestion on buying of the mobile.
+
+3. Cities and Countries Improvement
+Hadoop is used to develop the country, state, and cities by analyzing data. For example, traffic jams can be controlled by Hadoop’s uses in the development of a smart city, and It used to improve the transport of the city. It gives proper guidelines for buses, train, and another way of transportation.
